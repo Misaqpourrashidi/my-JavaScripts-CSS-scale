@@ -66,7 +66,7 @@
 	// 	})
 	// })
 
-
+// FILTER PRODUCT
 
 const filterDiscount = document.querySelector(".filter_discount")
 const detail = document.querySelectorAll(".detail")
@@ -122,6 +122,7 @@ hideNameDiv.forEach(function(hnd){
 	})
 })
 
+// FILTER PRODUCT BY PRICE
 
 const filterPrice = document.querySelector(".filter_price .price")
 const filterPriceRange = document.querySelector(".filter_price .range")
